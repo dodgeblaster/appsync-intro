@@ -2,16 +2,36 @@
 
 ## Overview
 
+### 1.
+
 In our Appsync app, we are going to create the following resources:
 
 ![img1](./docs/img1.png)
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 2.
 
 We will create a Appsync GraphQL resource and attach some config resources to it, such as our schema and api key. Although we have only 1 schema, we will potentially have many resolvers and datasources
 
 ![img2](./docs/img2.png)
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 3.
 
 In our case, we are using DynamoDB as a datasource, and many resolvers which correspond to our schemas query and mutation definitions.
 ![img3](./docs/img3.png)
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 4.
 
 Although we can have many datasources, in our example, we will be using 1 DynamoDB datasource, and defining multiple resolvers to act against it.
 
