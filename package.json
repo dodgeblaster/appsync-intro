@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "deploy": "sam build && sam deploy",
+        "remove": "aws cloudformation delete-stack --stack-name=AppsyncIntro"
+    }
+}
