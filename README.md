@@ -1,5 +1,10 @@
 # Appsync Intro
 
+## Walkthru Videos
+- [Part 1](https://youtu.be/f4lvczgDwqw)
+- [Part 2](https://youtu.be/p1Tyy-ygdUA)
+- [Part 3](https://youtu.be/EmF5SWzs82w)
+
 ## Overview
 
 ### 1.
